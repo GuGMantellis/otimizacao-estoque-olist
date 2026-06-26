@@ -1,0 +1,30 @@
+# Ignorar pasta de dados (arquivos grandes demais pro GitHub)
+data/
+
+# Pasta de outputs gerados
+output/
+
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Credenciais Kaggle
+kaggle.json
+
+# Scripts auxiliares temporários
+fix_notebook.py
+humanize_notebook.py
