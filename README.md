@@ -212,7 +212,7 @@ O modelo Prophet gera:
 
 Desenvolvido por [Gustavo Mantellis](https://github.com/GuGMantellis) 📊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guedes-mantellis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guedes-mantellis-3483722b0/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,4&height=80&section=footer" width="100%"/>
 
